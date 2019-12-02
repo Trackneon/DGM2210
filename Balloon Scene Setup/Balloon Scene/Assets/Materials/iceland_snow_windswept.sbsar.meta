@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 7799440e430ce6448851865fdf4502eb
+guid: d0803ba7f9e09a04d98149ec092bf5a2
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -17,13 +17,7 @@ ScriptedImporter:
     generateMipMaps: 1
     preset: " <sbspreset pkgurl=\"pkg://iceland_snow_windswept\" label=\"\" >\n 
       <presetinput identifier=\"$outputsize\" uid=\"2267392662\" type=\"8\" value=\"11,11\"
-      />\n  <presetinput identifier=\"$randomseed\" uid=\"3495410884\" type=\"4\"
-      value=\"268\" />\n  <presetinput identifier=\"normal_orientation_variation\"
-      uid=\"4027077688\" type=\"0\" value=\"0.76\" />\n  <presetinput identifier=\"luminosity\"
-      uid=\"2188972845\" type=\"0\" value=\"1\" />\n  <presetinput identifier=\"contrast\"
-      uid=\"4261206543\" type=\"0\" value=\"1\" />\n  <presetinput identifier=\"height_range\"
-      uid=\"4200128621\" type=\"0\" value=\"0.5\" />\n  <presetinput identifier=\"height_position\"
-      uid=\"4200128540\" type=\"0\" value=\"0.28\" />\n </sbspreset>\n"
+      />\n </sbspreset>\n"
     shaderName: Standard
     materialProperties:
       shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
@@ -31,7 +25,7 @@ ScriptedImporter:
       lightmapFlags: 4
       texEnvs:
       - name: _BumpMap
-        texture: {fileID: 3897490569886209014, guid: 7799440e430ce6448851865fdf4502eb,
+        texture: {fileID: 3897490569886209014, guid: d0803ba7f9e09a04d98149ec092bf5a2,
           type: 3}
         scale: {x: 1, y: 1}
         offset: {x: 0, y: 0}
@@ -52,22 +46,22 @@ ScriptedImporter:
         scale: {x: 1, y: 1}
         offset: {x: 0, y: 0}
       - name: _MainTex
-        texture: {fileID: 2796995027978635602, guid: 7799440e430ce6448851865fdf4502eb,
+        texture: {fileID: 2796995027978635602, guid: d0803ba7f9e09a04d98149ec092bf5a2,
           type: 3}
         scale: {x: 1, y: 1}
         offset: {x: 0, y: 0}
       - name: _MetallicGlossMap
-        texture: {fileID: 7761493318820953775, guid: 7799440e430ce6448851865fdf4502eb,
+        texture: {fileID: 7761493318820953775, guid: d0803ba7f9e09a04d98149ec092bf5a2,
           type: 3}
         scale: {x: 1, y: 1}
         offset: {x: 0, y: 0}
       - name: _OcclusionMap
-        texture: {fileID: -929107487900485964, guid: 7799440e430ce6448851865fdf4502eb,
+        texture: {fileID: -929107487900485964, guid: d0803ba7f9e09a04d98149ec092bf5a2,
           type: 3}
         scale: {x: 1, y: 1}
         offset: {x: 0, y: 0}
       - name: _ParallaxMap
-        texture: {fileID: 510041640042488794, guid: 7799440e430ce6448851865fdf4502eb,
+        texture: {fileID: 510041640042488794, guid: d0803ba7f9e09a04d98149ec092bf5a2,
           type: 3}
         scale: {x: 1, y: 1}
         offset: {x: 0, y: 0}
@@ -285,11 +279,11 @@ ScriptedImporter:
       textureFormatMode: 0
       normalCompressed: 0
       bGenerateOnLoad: 1
-    material: {fileID: -5210254250454878953, guid: 7799440e430ce6448851865fdf4502eb,
+    material: {fileID: -5210254250454878953, guid: d0803ba7f9e09a04d98149ec092bf5a2,
       type: 3}
     generatedTextures:
-    - {fileID: 2796995027978635602, guid: 7799440e430ce6448851865fdf4502eb, type: 3}
-    - {fileID: 3897490569886209014, guid: 7799440e430ce6448851865fdf4502eb, type: 3}
-    - {fileID: 7761493318820953775, guid: 7799440e430ce6448851865fdf4502eb, type: 3}
-    - {fileID: 510041640042488794, guid: 7799440e430ce6448851865fdf4502eb, type: 3}
-    - {fileID: -929107487900485964, guid: 7799440e430ce6448851865fdf4502eb, type: 3}
+    - {fileID: 2796995027978635602, guid: d0803ba7f9e09a04d98149ec092bf5a2, type: 3}
+    - {fileID: 3897490569886209014, guid: d0803ba7f9e09a04d98149ec092bf5a2, type: 3}
+    - {fileID: 7761493318820953775, guid: d0803ba7f9e09a04d98149ec092bf5a2, type: 3}
+    - {fileID: 510041640042488794, guid: d0803ba7f9e09a04d98149ec092bf5a2, type: 3}
+    - {fileID: -929107487900485964, guid: d0803ba7f9e09a04d98149ec092bf5a2, type: 3}

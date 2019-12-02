@@ -23,10 +23,10 @@ ScriptedImporter:
       value=\"1\" />\n  <presetinput identifier=\"contrast\" uid=\"3723353125\" type=\"0\"
       value=\"1\" />\n  <presetinput identifier=\"saturation\" uid=\"3714690099\"
       type=\"0\" value=\"0.98\" />\n  <presetinput identifier=\"normal_intensity\"
-      uid=\"3723353415\" type=\"0\" value=\"0.17\" />\n  <presetinput identifier=\"roughness_value\"
+      uid=\"3723353415\" type=\"0\" value=\"0.06\" />\n  <presetinput identifier=\"roughness_value\"
       uid=\"2873040275\" type=\"0\" value=\"1\" />\n  <presetinput identifier=\"ao_spreading\"
       uid=\"2784769196\" type=\"0\" value=\"0.39\" />\n  <presetinput identifier=\"height_position\"
-      uid=\"2766238341\" type=\"0\" value=\"0.37\" />\n </sbspreset>\n"
+      uid=\"2766238341\" type=\"0\" value=\"0.24\" />\n </sbspreset>\n"
     shaderName: Standard
     materialProperties:
       shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
